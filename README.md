@@ -6,17 +6,27 @@ Wallpapers set with one kanji per image (.png) sorted by JLPT level (N5 to N3 = 
 
 The idea behind this wallpaper set is to set your wallpaper to change every day (or whatever time duration you want) to a new Kanji.
 
-Translations and examples are graciously borrowed from http://www.jlptstudy.net. You can report eventual errors on the forum: http://www.jlptstudy.net/forum/
+Translations and examples are graciously borrowed from http://www.jlptstudy.net. 
 
 ## How to use
 Download the set using the "Download ZIP" button on the right. Unzip somewhere on your computer and follow one of the guide below.
 
+#### Ubuntu:
+https://bagustris.blogspot.com/2020/12/belajar-kanji-otomatis-lewat-wallpaper.html
 ### Windows: 
 http://windows.microsoft.com/en-us/windows7/create-a-desktop-background-slide-show
 #### OSX:
 http://www.guidingtech.com/11633/os-x-lion-customize-desktop-background-wallpaper-slideshow/
-#### Ubuntu:
-http://www.howtogeek.com/howto/25549/how-to-create-a-wallpaper-slideshow-in-ubuntu/
+
+I just checked the Ubuntu version, kindly report an issue or submit a PR if there is a problem on installing using above method.
+
+## Running the python code
+
+Run the python code to generate N2 kanji images:  
+
+```bash
+python3 generate_n2_kanji_images.py n2_full
+``
 
 ## More samples
 

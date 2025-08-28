@@ -1,0 +1,693 @@
+arm, ability, talentJis208: 47-51
+腕
+▲ Kanji Dictionary for 腕
+ワン
+うで
+Compounds
+右腕 うわん right arm (n)
+手腕 しゅわん ability (n)
+敏腕 びんわん ability (adj-na, n)
+片腕 かたうで one arm, right-hand man (n)
+両腕 もろうで both arms (n)
+
+gulf, bay, inletJis208: 47-49
+湾
+▲ Kanji Dictionary for 湾
+ワン
+いりえ
+Compounds
+港湾 こうわん harbours, harbors (n)
+真珠湾 しんじゅわん Pearl Harbor (n)
+台湾 たいわん Taiwan (n)
+湾 わん bay, gulf, inlet (n, n-suf)
+湾岸 わんがん gulf (bay) coast (n)
+
+harmony, Japanese style, peace, soften, JapanJis208: 47-34
+和
+▲ Kanji Dictionary for 和
+ワ, オ, カ
+やわ.らぐ, やわ.らげる, なご.む, なご.やか
+Compounds
+違和感 いわかん malaise, physical unease, uncomfortable feeling, feeling out of place, sense of discomfort (n)
+英和 えいわ English-Japanese (eg dictionary) (n)
+緩和 かんわ relief, mitigation (n, vs)
+共和制 きょうわせい republicanism (n)
+共和党 きょうわとう Republican Party (n)
+
+argument, discourseJis208: 47-32
+論
+▲ Kanji Dictionary for 論
+ロン
+Compounds
+異論 いろん different opinion, objection (n)
+概論 がいろん intro, outline, general remarks (n, vs)
+議論 ぎろん argument, discussion, dispute, controversy (n, vs)
+極論 きょくろん extreme logic, extreme argument, unreserved argument (n, vs)
+空論 くうろん abstract or impracticable theory (n)
+
+recordJis208: 47-31
+録
+▲ Kanji Dictionary for 録
+ロク
+Compounds
+回顧録 かいころく memoirs, reminiscences (n)
+記録 きろく record, minutes, document (n, vs)
+議事録 ぎじろく record of proceedings, minutes (n)
+語録 ごろく analects, sayings (n)
+再録 さいろく re-recording (n, vs)
+
+old man, old age, grow oldJis208: 47-23
+老
+▲ Kanji Dictionary for 老
+ロウ
+お.いる, ふ.ける
+Compounds
+家老 かろう chief retainer, daimyo's minister (n)
+敬老 けいろう respect for the aged (n)
+元老 げんろう elder statesman, authority (n)
+故老 ころう old people, seniors, elders, old-timer (n)
+初老 しょろう middle-aged, aging, ageing, age 40 (n)
+
+labor, thank for, reward for, toil, troubleJis208: 47-11
+労
+▲ Kanji Dictionary for 労
+ロウ
+ろう.する, いたわ.る, いた.ずき, ねぎら, つか.れる, ねぎら.う
+Compounds
+ご苦労様 ごくろうさま thank you very much for your.., I appreciate your efforts (adj-na, exp)
+慰労 いろう recognition of services (n, vs)
+過労 かろう overwork, strain (n)
+気苦労 きぐろう worry, care, anxiety (n)
+漁労 ぎょろう fishing, fishery (n)
+
+path, route, road, distanceJis208: 47-9
+路
+▲ Kanji Dictionary for 路
+ロ, ル
+-じ, みち
+Compounds
+悪路 あくろ bad road (n)
+一路 いちろ one road, one way, straight, earnestly (adv, n)
+往路 おうろ outward journey (n)
+家路 いえじ the road home (n)
+回路 かいろ circuit (electric) (n)
+
+take along, lead, join, connect, party, gang, cliqueJis208: 47-2
+連
+▲ Kanji Dictionary for 連
+レン
+つら.なる, つら.ねる, つ.れる, -づ.れ
+Compounds
+一連 いちれん series, chain, sequence, ream (of paper) (n)
+引連れる ひきつれる to take along with (Ichidan verb, vt)
+愚連隊 ぐれんたい gang of young toughs (n)
+訓連 くんれん practice, practise, training (n, vs)
+経団連 けいだんれん Federation of Economic Organizations (Organisation) (n)
+
+practice, gloss, train, drill, polish, refineJis208: 46-93
+練
+▲ Kanji Dictionary for 練
+レン
+ね.る, ね.り
+Compounds
+手練手管 てれんてくだ wiles, art of coaxing (n)
+熟練 じゅくれん skill, dexterity (n)
+鍛練 たんれん tempering, forging, hardening, disciplining, training (n, vs)
+未練 みれん lingering affection, attachment, regret(s), reluctance (adj-na, n)
+練り上げる ねりあげる to train up, to discipline (Ichidan verb, vt) 
+
+romance, in love, yearn for, miss, darlingJis208: 46-88
+恋
+▲ Kanji Dictionary for 恋
+レン
+こ.う, こい, こい.しい
+Compounds
+失恋 しつれん disappointed love, broken heart, unrequited love, being lovelorn (n, vs)
+初恋 はつこい first love, puppy love (n)
+悲恋 ひれん blighted love, disappointed love (n)
+恋しい こいしい dear, beloved, darling, yearned for (adj)
+恋愛 れんあい love, love-making, passion, emotion, affections (n, vs) 
+
+file, row, rank, tier, columnJis208: 46-83
+列
+▲ Kanji Dictionary for 列
+レツ, レ
+Compounds
+列記 れっき list (n, vs)
+一列 いちれつ (a) row, line (n, vs)
+下り列車 くだりれっしゃ trains going away from the capital, down train (n)
+系列 けいれつ series, sequence, system, order of succession, grouping of enterprises (n)
+後列 こうれつ rear, back row (n) 
+
+curriculum, continuation, passage of timeJis208: 46-82
+歴
+▲ Kanji Dictionary for 歴
+レキ, レッキ
+Compounds
+学歴 がくれき academic background (n)
+経歴 けいれき personal history, career (n, vs)
+前歴 ぜんれき personal history (n)
+遍歴 へんれき travels, pilgrimage, itinerancy (n, vs)
+来歴 らいれき history, career (n) 
+
+ageJis208: 46-80
+齢
+▲ Kanji Dictionary for 齢
+レイ
+よわ.い, とし
+Compounds
+加齢 かれい adding to one's years (n, vs)
+学齢 がくれい school age (n)
+高齢 こうれい advanced (old) age (n)
+樹齢 じゅれい age of a tree (n)
+年齢層 ねんれいそう age range, age-group (n)  
+
+zero, spill, overflow, nothing, cipherJis208: 46-77
+零
+▲ Kanji Dictionary for 零
+レイ
+ぜろ, こぼ.す, こぼ.れる
+Compounds
+取零す とりこぼす to lose an easy game, to suffer an unexpected defeat, to lose information (computers) (v5s, iv)
+零 れい zero, nought (n)
+零下 れいか below zero, sub-zero (n)
+零細 れいさい insignificant, trifling, paltry (adj-na, n)
+零時 れいじ 12 o'clock (midnight) (n)
+
+salute, bow, ceremony, thanks, remunerationJis208: 46-73
+礼
+▲ Kanji Dictionary for 礼
+レイ, ライ
+Compounds
+一礼 いちれい bow (salute, greeting) (n, vs)
+儀礼 ぎれい etiquette, courtesy (n)
+儀礼的 ぎれいてき formal, courteous (adj-na)
+虚礼 きょれい empty (useless) formalities (n)
+敬礼 けいれい salute (n, vs)  
+
+cool, cold (beer, person), chillJis208: 46-68
+冷
+▲ Kanji Dictionary for 冷
+レイ
+つめ.たい, ひ.える, ひ.や, ひ.ややか, ひ.やす, ひ.やかす, さ.める, さ.ます
+Compounds
+花冷え はなびえ chilly spring weather (n)
+寒冷 かんれい cold, coldness, chilliness (adj-na, n)
+空冷 くうれい air cooling (n)
+保冷 ほれい keep cool (n)
+冷え ひえ chilling exposure (n)  
+
+example, custom, usage, precedentJis208: 46-67
+例
+▲ Kanji Dictionary for 例
+レイ
+たと.える
+Compounds
+異例 いれい exception, illness, singular, exceptional, unprecedented (adj-na, n, adj-no)
+一例 いちれい example, an instance (n)
+慣例 かんれい custom, precedent, of convention (n, adj-no)
+月例 げつれい monthly (n)
+好例 こうれい good example (n)  
+
+orders, ancient laws, command, decreeJis208: 46-65
+令
+▲ Kanji Dictionary for 令
+レイ
+Compounds
+戒厳令 かいげんれい martial law (n)
+訓令 くんれい directive, instructions (n, vs)
+号令 ごうれい order, command (n, vs)
+司令 しれい command, control, commander (n, vs)
+司令官 しれいかん commandant, commanding officer, general (n)  
+
+sort, kind, variety, class, genusJis208: 46-64
+類
+▲ Kanji Dictionary for 類
+ルイ
+たぐ.い
+Compounds
+柑橘類 かんきつるい citrus fruits (n)
+魚貝類 ぎょかいるい marine products, seafood, fish and shellfish (n)
+魚類 ぎょるい the fishes (n)
+菌類 きんるい fungus, fungi (n)
+穀類 こくるい grains (n)  
+
+tears, sympathyJis208: 46-62
+涙
+▲ Kanji Dictionary for 涙
+ルイ, レイ
+なみだ
+Compounds
+感涙 かんるい tears of gratitude (n)
+涙ぐましい なみだぐましい touching, moving, painful (adj)
+涙声 なみだごえ tearful voice (n)
+悔やし涙 くやしなみだ vexation, chagrin (n)
+涙ぐむ なみだぐむ to be moved to tears (v5m, iv)  
+
+wheel, ring, circle, link, loop, counter for wheels and flowersJis208: 46-56
+輪
+▲ Kanji Dictionary for 輪
+リン
+わ
+Compounds
+一輪 いちりん one flower, (a) wheel (n)
+花輪 はなわ wreath, garland (n)
+競輪 けいりん bicycle race, bicycle racing (n)
+三輪 さんりん three wheels (n)
+三輪車 さんりんしゃ three wheeled vehicle (tricycle, motorcycle, etc), three wheeler (n)  
+
+greenJis208: 46-48
+緑
+▲ Kanji Dictionary for 緑
+リョク, ロク
+みどり
+Compounds
+黄緑 おうりょく pea green, yellow-green (n)
+常緑 じょうりょく evergreen (n)
+常緑樹 じょうりょくじゅ evergreen tree (n)
+新緑 しんりょく fresh verdure (n)
+緑 みどり greenery (n)  
+
+jurisdiction, dominion, territory, fief, reignJis208: 46-46
+領
+▲ Kanji Dictionary for 領
+リョウ
+Compounds
+横領 おうりょう usurpation, embezzlement, misappropriation (n, vs)
+綱領 こうりょう general plan, main points, summary (n)
+受領 じゅりょう receipt (of letter), acknowledge (n, vs)
+占領 せんりょう occupation, capture, possession, have a room to oneself (n, vs)
+総領事 そうりょうじ consul general (n)  
+
+quantity, measure, weight, amount, consider, estimate, surmiseJis208: 46-44
+量
+▲ Kanji Dictionary for 量
+リョウ
+はか.る
+Compounds
+雨量 うりょう rainfall (n)
+音量 おんりょう volume (sound) (n)
+感慨無量 かんがいむりょう deep emotion, one's mind is filled with thousand emotions (adj-na, n)
+器量 きりょう looks, features, personal beauty (n)
+技量 ぎりょう ability, competency (n)  
+
+good, pleasing, skilledJis208: 46-41
+良
+▲ Kanji Dictionary for 良
+リョウ
+よ.い, -よ.い, い.い, -い.い
+Compounds
+改良 かいりょう improvement, reform (n, vs)
+最良 さいりょう the best, ideal (adj-na, n)
+善良 ぜんりょう goodness, excellence, virtue (adj-na, n)
+仲良く なかよく making friends with, getting along well with, on cordial terms (adv, n, vs)
+不良 ふりょう badness, delinquent, inferiority, failure (adj-na, n)  
+
+heal, cureJis208: 46-37
+療
+▲ Kanji Dictionary for 療
+リョウ
+Compounds
+医療 いりょう medical care, medical treatment (n)
+化学療法 かがくりょうほう chemotherapy (n)
+加療 かりょう medical treatment (n, vs)
+治療 ちりょう medical treatment (n, vs)
+診療 しんりょう medical examination and treatment, diagnosis (n, vs)  
+
+refreshing, nice and coolJis208: 46-35
+涼
+▲ Kanji Dictionary for 涼
+リョウ
+すず.しい, すず.む, すず.やか, うす.い, ひや.す, まことに
+Compounds
+清涼 せいりょう cool, refreshing (adj-na, n)
+清涼飲料水 せいりょういんりょうすい soft drink (n)
+涼しい すずしい cool, refreshing (adj)
+涼風 すずかぜ cool breeze, refreshing breeze (n)
+納涼 のうりょう (enjoying the) cool of the evening (n)  
+
+both, old Japanese coin, counter for carriages (eg in a train), twoJis208: 46-30
+両
+▲ Kanji Dictionary for 両
+リョウ
+てる, ふたつ
+Compounds
+一刀両断 いっとうりょうだん cutting in two with a single stroke, taking decisive (drastic) measure, cutting the (Gordian) knot (n)
+十両 じゅうりょう second highest sumo division, wrestlers of the second highest sumo division (n)
+両院 りょういん both Houses of Parliament (n)
+両家 りょうけ both families (n)
+両岸 りょうぎし both banks (of a river) (n)
+
+complete, finishJis208: 46-27
+了
+▲ Kanji Dictionary for 了
+リョウ
+Compounds
+完了 かんりょう completion, conclusion (n, vs)
+修了 しゅうりょう completion (of a course) (n, vs)
+終了 しゅうりょう end, close, termination (n, vs)
+満了 まんりょう expiration, termination (n, vs)
+未了 みりょう unfinished, unfilled (order), unexecuted (n, adj-no)
+
+complete, finishJis208: 46-27
+了
+▲ Kanji Dictionary for 了
+リョウ
+Compounds
+完了 かんりょう completion, conclusion (n, vs)
+修了 しゅうりょう completion (of a course) (n, vs)
+終了 しゅうりょう end, close, termination (n, vs)
+満了 まんりょう expiration, termination (n, vs)
+未了 みりょう unfinished, unfilled (order), unexecuted (n, adj-no)
+
+grains, drop, counter for tiny particlesJis208: 46-19
+粒
+▲ Kanji Dictionary for 粒
+リュウ
+つぶ
+Compounds
+素粒子 そりゅうし elementary particle, particle (physics) (n)
+微粒子 びりゅうし corpuscle, minute particle (n)
+米粒 こめつぶ grain of rice (n)
+粒 つぶ grain (n, n-suf)
+粒子 りゅうし particle, grain (n)
+
+detain, fasten, halt, stopJis208: 46-17
+留
+▲ Kanji Dictionary for 留
+リュウ, ル
+と.める, と.まる, とど.める, とど.まる, るうぶる
+Compounds
+慰留 いりゅう dissuasion from resigning or leaving (n, vs)
+遺留 いりゅう bequest (n, vs)
+遺留品 いりゅうひん lost articles (n)
+居留 きょりゅう residence, reside (n, vs)
+局留め きょくどめ general delivery, counter collection, poste restante (n)
+
+current, a sink, flow, forfeitJis208: 46-14
+流
+▲ Kanji Dictionary for 流
+リュウ, ル
+なが.れる, なが.れ, なが.す, -なが.す
+Compounds
+亜流 ありゅう bad second, epigone, adherent, follower, imitator (n)
+一流 いちりゅう first-class, top grade, school (of art), foremost, top-notch, unique (n)
+押流す おしながす to wash away (v5s, vt)
+横流し よこながし diversion into illegal channels (n, vs)
+下流 かりゅう downstream, lower reaches of a river, lower classes (n)  
+
+abbreviation, omission, outline, shorten, capture, plunderJis208: 46-12
+略
+▲ Kanji Dictionary for 略
+リャク
+ほぼ, おか.す, おさ.める, はかりごと, はか.る, はぶ.く, りゃく.す, りゃく.する
+Compounds
+概略 がいりゃく outline, summary, gist, in brief (n-t)
+簡略 かんりゃく simple, simplicity (adj-na, n)
+攻略 こうりゃく capture (n, vs)
+策略 さくりゃく scheme, tactic, stratagem, trick (n)
+省略 しょうりゃく omission, abbreviation, abridgment, abridgement (n, vs)  
+
+ratio, rate, proportion, %, coefficient, factorJis208: 46-8
+率
+▲ Kanji Dictionary for 率
+ソツ, リツ, シュツ
+ひき.いる
+Compounds
+引率 いんそつ leading, commanding (n, vs)
+確率 かくりつ probability (n)
+軽率 けいそつ rash, thoughtless, careless, hasty (adj-na, n)
+効率 こうりつ efficiency, efficacy, performance, utility factor (n)
+効率的 こうりつてき efficient (adj-na)  
+
+rhythm, law, regulation, gauge, controlJis208: 46-7
+律
+▲ Kanji Dictionary for 律
+リツ, リチ, レツ
+Compounds
+一律 いちりつ evenness, uniformity, monotony, equality (adj-na, n-adv, n)
+韻律 いんりつ rhythm, metre (poet) (n)
+戒律 かいりつ Buddhist precepts (n)
+紀律 きりつ order, observance, discipline, rules, law, regulations (n)
+自律 じりつ autonomy (n)  
+
+land, sixJis208: 46-6
+陸
+▲ Kanji Dictionary for 陸
+リク, ロク
+おか
+Compounds
+空陸 くうりく land and air, land and air forces (n)
+上陸 じょうりく landing, disembarkation (n, vs)
+大陸 たいりく continent (n)
+大陸棚 たいりくだな continental shelf (n)
+着陸 ちゃくりく landing, alighting, touch down (n, vs)  
+
+back, amidst, in, reverse, inside, palm, sole, rear, lining, wrong sideJis208: 46-2
+裏
+▲ Kanji Dictionary for 裏
+リ
+うら
+Compounds
+内裏 だいり imperial palace (n)
+表裏 ひょうり two sides, inside and outside (n, vs)
+舞台裏 ぶたいうら offstage, backstage, behind the scenes (n)
+裏 うら reverse side, wrong side, back, undersurface, inside, palm, sole, opposite, rear, lining, last half (of an inning) (n)
+裏金 うらがね bribe (n)  
+
+profit, advantage, benefitJis208: 45-88
+利
+▲ Kanji Dictionary for 利
+リ
+き.く
+Compounds
+営利 えいり money-making, commercialized, commercialised (n)
+鋭利 えいり sharpness (adj-na, n)
+巨利 きょり huge profit (n)
+金利 きんり interest rates (n)
+権利 けんり right, privilege (n)  
+
+egg, ovum, spawn, roeJis208: 45-81
+卵
+▲ Kanji Dictionary for 卵
+ラン
+たまご
+Compounds
+一卵性双生児 いちらんせいそうせいじ identical twins (n)
+鶏卵 けいらん hens egg (n)
+産卵 さんらん egg-laying, spawning (n, vs)
+受精卵 じゅせいらん fertilized eggs, fertilised eggs (n)
+生卵 なまたまご raw egg (n)   
+
+riot, war, disorder, disturbJis208: 45-80
+乱
+▲ Kanji Dictionary for 乱
+ラン, ロン
+みだ.れる, みだ.る, みだ.す, みだ, おさ.める, わた.る
+Compounds
+一心不乱 いっしんふらん wholeheartedly, with heart and soul, intently, with undivided attention, with intense concentration (adj-na, n)
+狂乱 きょうらん fury, frenzy, madness (n, vs)
+混乱 こんらん disorder, chaos, confusion, mayhem (n, vs)
+咲き乱れる さきみだれる to bloom in profusion (Ichidan verb, iv)
+錯乱 さくらん confusion, distraction, derangement (n, vs)  
+
+fall, drop, come downJis208: 45-78
+落
+▲ Kanji Dictionary for 落
+ラク
+お.ちる, お.ち, お.とす
+Compounds
+一段落 ひとだんらく pause (n, vs)
+下落 げらく depreciation, decline, fall, slump (n, vs)
+滑り落ちる すべりおちる to slip off (Ichidan verb)
+滑落 かつらく slipping down, avalanche (n, vs)
+落ち入る おちいる to fall, to trap, to cave in, to collapse (v5r, iv)  
+
+entwine, coil around, get caught inJis208: 45-77
+絡
+▲ Kanji Dictionary for 絡
+ラク
+から.む, から.まる
+Compounds
+短絡 たんらく electric short-circuit, drawing a hasty inference between two events, jumping to a quick conclusion (n, vs)
+脈絡 みゃくらく chain of reasoning, logical connection, coherence, context (n)
+絡まる からまる to be entwined, to be involved (v5r, iv)
+絡む からむ to entangle, to entwine, to pick a quarrel, to be involved with (v5m, iv)
+聯絡 れんらく junction, communication, contact, connection, coordination (n, vs)  
+
+trust, requestJis208: 45-74
+頼
+▲ Kanji Dictionary for 頼
+ライ
+たの.む, たの.もしい, たよ.る
+Compounds
+依頼 いらい request, commission, dispatch, despatch, dependence, trust (n, vs)
+依頼者 いらいしゃ client (n)
+家頼 けらい retainer, retinue, servant (n)
+信頼 しんらい reliance, trust, faith, confidence (n, vs)
+信頼性 しんらいせい credibility, authenticity, confidence, reliability (n)  
+the following, nextJis208: 45-66
+翌
+▲ Kanji Dictionary for 翌
+ヨク
+Compounds
+翌月 よくげつ following month (n-adv, n-t)
+翌週 よくしゅう the following week, the next week (n-t)
+翌日 よくじつ next day (n-adv, n-t)
+翌年 よくとし following year (n-t)
+翌朝 よくちょう the next morning (n-adv, n-t)  
+
+bathe, be favored with, bask inJis208: 45-65
+浴
+▲ Kanji Dictionary for 浴
+ヨク
+あ.びる, あ.びせる
+Compounds
+海水浴 かいすいよく sea bathing, seawater bath (n)
+海水浴場 かいすいよくじょう swimming area (in the ocean), swimming beach, seawater baths (n)
+日光浴 にっこうよく sunbathing (n, vs)
+入浴 にゅうよく bathe, bathing (n, vs)
+浴 よく bath (n-suf)  
+
+longing, covetousness, greed, passion, desire, cravingJis208: 45-63
+欲
+▲ Kanji Dictionary for 欲
+ヨク
+ほっ.する, ほ.しい
+Compounds
+禁欲 きんよく abstinence, abnegation (n, vs)
+欲 よく greed, wants (n)
+欲しい ほしい wanted, wished for, in need of, desired (adj)
+欲する ほっする to want, to desire (suru verb - special class)
+欲求 よっきゅう desire (n, vs)
+
+sunshine, yang principle, positive, male, heaven, daytimeJis208: 45-59
+陽
+▲ Kanji Dictionary for 陽
+ヨウ
+ひ
+Compounds
+斜陽 しゃよう setting sun, declining (n, adj-no)
+太陽 たいよう sun, solar (n)
+反陽子 はんようし antiproton (physics) (n)
+陽炎 ようえん heat haze, shimmer of hot air (n)
+陽気 ようき season, weather, cheerfulness (adj-na, n)  
+
+jump, dance, leap, skipJis208: 45-57
+踊
+▲ Kanji Dictionary for 踊
+ヨウ
+おど.る
+Compounds
+舞踊 ぶよう dancing, dance (n)
+盆踊り ぼんおどり Bon Festival dance, Lantern Festival dance (n)
+踊り おどり dance (n)
+踊り子 おどりこ dancer (n)
+踊り場 おどりば dance hall, dance floor, landing (stairs) (n)  
+
+need, main point, essence, pivot, key toJis208: 45-55
+要
+▲ Kanji Dictionary for 要
+ヨウ
+い.る
+Compounds
+概要 がいよう outline, summary, synopsis (n-t)
+肝要 かんよう essential, vital, crucial, importance (adj-na, n)
+強要 きょうよう coercion, extortion (n, vs)
+緊要 きんよう momentous, exigent, urgent, important, vital (adj-na, n)
+主要 しゅよう chief, main, principal, major (adj-na, n)  
+
+leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, pieceJis208: 45-53
+葉
+▲ Kanji Dictionary for 葉
+ヨウ
+は
+Compounds
+一葉 いちよう (a) leaf, (a) page, (a) copy (of a photo), (a) boat (n)
+言葉 ことば word(s), language, speech (n)
+言葉遣い ことばづかい speech, expression, wording (n)
+若葉 わかば new leaves, fresh verdure (n)
+松葉 まつば pine needle (n)  
+
+melt, dissolve, thawJis208: 45-47
+溶
+▲ Kanji Dictionary for 溶
+ヨウ
+と.ける, と.かす, と.く
+Compounds
+水溶性 すいようせい water-soluble (n)
+溶かす とかす to melt, to dissolve (v5s, vt)
+溶け合う とけあう to melt together (v5s, iv)
+溶液 ようえき solution (liquid) (n)
+溶解 ようかい solution (n, vs)  
+
+Esq., way, manner, situation, polite suffixJis208: 45-45
+様
+▲ Kanji Dictionary for 様
+ヨウ, ショウ
+さま, さん
+Compounds
+ご苦労様 ごくろうさま thank you very much for your .., I appreciate your efforts (adj-na, exp)
+異様 いよう bizarre, strange, eccentric, odd, queer (adj-na, n)
+一様 いちよう uniformity, evenness, similarity, equality, impartiality (adj-na, n)
+奥様 おくさま wife, your wife, his wife, married lady, madam (n)
+王様 おうさま king (n)  
+
+contain, form, looksJis208: 45-38
+容
+▲ Kanji Dictionary for 容
+ヨウ
+い.れる
+Compounds
+寛容 かんよう forbearance, tolerance, generosity (adj-na, n)
+許容 きょよう permission, pardon (n, vs)
+形容 けいよう form, figure, qualification, description, modifying, figure of speech (n, vs)
+形容詞 けいようし (true) adjective (n)
+受容 じゅよう reception (n, vs)  
+infancy, childhoodJis208: 45-36
+幼
+▲ Kanji Dictionary for 幼
+ヨウ
+おさな.い
+Compounds
+乳幼児 にゅうようじ infants, babies (n)
+幼馴染 おさななじみ childhood friend, friend from infancy, old playmate (n)
+幼魚 ようぎょ fry (young fish) (n)
+幼子 おさなご infant, baby, little child (n)
+幼児 ようじ infant, baby, child (n)  
+
+deposit, custody, leave with, entrust toJis208: 45-34
+預
+▲ Kanji Dictionary for 預
+ヨ
+あず.ける, あず.かる
+Compounds
+普通預金 ふつうよきん ordinary bank account (n)
+預かり あずかり custody, undecided match, draw, tie (n)
+預かる あずかる to keep in custody, to receive on deposit, to take charge of (v5r, vt)
+預け あずけ custody, keeping (n)
+預ける あずける to give into custody, to leave (a child) in the care of, to entrust (Ichidan verb, vt)  
+
+bestow, participate in, give, award, impart, provide, cause, gift, godsendJis208: 45-31
+与
+▲ Kanji Dictionary for 与
+ヨ
+あた.える, あずか.る, くみ.する, ともに
+Compounds
+関与 かんよ participation, taking part in, participating in, being concerned in (n, vs)
+寄与 きよ contribution, service (n, vs)
+給与 きゅうよ allowance, grant, supply (n, vs)
+供与 きょうよ giving, provision, furnishing (n, vs)
+参与 さんよ participation, taking part (n, vs)  
+
+too much, myself, surplus, other, remainderJis208: 45-30
+余
+▲ Kanji Dictionary for 余
+ヨ
+あま.る, あま.り, あま.す, あんま.り
+Compounds
+持て余す もてあます to be too much for one, to find unmanageable, to be beyond one's control, to not know what to do with (v5s, vt)
+剰余金 じょうよきん surplus, balance (n)
+余波 なごり remains, traces, vestiges, memory (n)
+余す あます to save, to leave over, to spare (v5s, vt)
+余りに あまりに too much, excessively, too (adv)
