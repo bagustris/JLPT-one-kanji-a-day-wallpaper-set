@@ -1,5 +1,7 @@
 ![jlpt kanji set](https://raw.githubusercontent.com/alb404/JLPT-one-kanji-a-day-wallpaper-set/master/JLPT-N5/JLPT_N5_00030.png)
-> [!NOTE]:** A new repository with improved kanji images is now available at [bagustris/kanji-slideshow](https://github.com/bagustris/kanji-slideshow). The new repo provides better quality and cleaner kanji wallpapers.
+
+> [!NOTE]
+> A new repository with improved kanji images is now available at [bagustris/kanji-slideshow](https://github.com/bagustris/kanji-slideshow). The new repo provides better quality and cleaner kanji wallpapers.
 
 **Sample image**
 # Kanji wallpaper set for JLPT studies
