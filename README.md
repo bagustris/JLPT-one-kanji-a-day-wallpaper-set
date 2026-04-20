@@ -29,7 +29,7 @@ Run the python code to generate N2 kanji images:
 
 ```bash
 python3 generate_n2_kanji_images.py n2_full
-``
+```
 
 ## More samples
 
